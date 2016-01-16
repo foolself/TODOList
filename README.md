@@ -2,6 +2,7 @@
 
 myself TODO list
 # NASA World Wind
+* https://support.google.com/webdesigner#topic=
 
 #include "string.h"
 int hextoten(char a[5])
@@ -31,6 +32,7 @@ char strhex[5]=“100”;
  numten=hextoten(strhex);
  printf("NUM=%d\n",numten);
 }
+
 
 
 
