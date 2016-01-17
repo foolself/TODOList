@@ -5,6 +5,9 @@ myself TODO list
 * https://support.google.com/webdesigner#topic=
 * http://www.linuxstory.org/
 * elementary OS
+* http://www.freebuf.com/tools/82993.html
+	
+
 
 
 
