@@ -10,4 +10,4 @@ myself TODO list
 * 微信公共号平台
 * http://share.weiyun.com/28ed5b53cdc8580ebc832cad0946851d#root
 * http://ms.csdn.net/share/91881676B450BE5BC9DDC05FFA49575C_1_IPHONE_APP
-
+* http://www.oschina.net/translate/speeding-up-your-python-code
