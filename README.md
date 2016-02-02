@@ -12,3 +12,4 @@ myself TODO list
 * http://ms.csdn.net/share/91881676B450BE5BC9DDC05FFA49575C_1_IPHONE_APP
 * http://www.oschina.net/translate/speeding-up-your-python-code
 * https://github.com/poulp/python-zenity
+* http://pan.baidu.com/mbox/homepage?short=hrbHnPq
