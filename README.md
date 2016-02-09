@@ -13,3 +13,4 @@ myself TODO list
 * http://www.oschina.net/translate/speeding-up-your-python-code
 * https://github.com/poulp/python-zenity
 * http://pan.baidu.com/mbox/homepage?short=hrbHnPq
+https://www.youtube.com/watch?v=KLOB-T1mgdY&list=PLdxftSFVyAA7iNtyHiAUjyVS57ARaG3w5
