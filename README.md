@@ -16,3 +16,4 @@ myself TODO list
 * https://wiki.python.org/moin/PythonDecoratorLibrary
 * https://github.com/jobbole/awesome-c-cn?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 * https://github.com/FreedomZZQ/IcePlayer
+* Seti_UI
