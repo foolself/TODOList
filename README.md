@@ -19,3 +19,4 @@ myself TODO list
 * Seti_UI
 * http://zhuanlan.zhihu.com/zuimei/20462491
 * http://www.codeceo.com/article/20-css-tools-programmer-need.html
+* http://v.youku.com/v_show/id_XODY5MjMyODgw.html
