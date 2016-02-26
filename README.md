@@ -23,3 +23,4 @@ myself TODO list
 * 2016.02.20 解压密码 zhunihaoyun
 * Free Code Camp
 * http://www.kuaidi100.com/openapi/
+* http://www.kuaidi.com/openapi.html
