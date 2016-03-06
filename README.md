@@ -25,3 +25,4 @@ myself TODO list
 * http://www.kuaidi100.com/openapi/
 * http://www.kuaidi.com/openapi.html
 * http://mezzanine.jupo.org/
+* http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html
