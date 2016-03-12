@@ -26,3 +26,4 @@ myself TODO list
 * http://www.kuaidi.com/openapi.html
 * http://mezzanine.jupo.org/
 * http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html
+* https://meedamian.com/post/deuglifying-android-studio/?hi
