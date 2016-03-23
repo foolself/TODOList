@@ -27,3 +27,4 @@ myself TODO list
 * http://mezzanine.jupo.org/
 * http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html
 * https://meedamian.com/post/deuglifying-android-studio/?hi
+* http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=403744757&idx=1&sn=5a10f4fbd55474a342f401a8b3d00965&scene=0#wechat_redirect
