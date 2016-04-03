@@ -27,4 +27,4 @@ myself TODO list
 * http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=403744757&idx=1&sn=5a10f4fbd55474a342f401a8b3d00965&scene=0#wechat_redirect
 * http://m.open-open.com/m/lib/view/1436262653692.html
 * http://jekyllthemes.org/
-
+* http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html#rd
