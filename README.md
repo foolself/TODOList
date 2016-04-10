@@ -29,3 +29,4 @@ myself TODO list
 * http://jekyllthemes.org/
 * http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html#rd
 * http://m.v.qq.com/page/j/0/r/j00205rbg9r.html
+* http://www.cnblogs.com/vus520/archive/2012/02/29/2561968.html
