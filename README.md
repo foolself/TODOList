@@ -33,3 +33,4 @@ myself TODO list
 * http://www.cnblogs.com/vus520/archive/2012/02/29/2561968.html
 * http://m.blog.csdn.net/article/details?id=7703804
 * http://dataminingguide.books.yourtion.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+* http://blog.kingname.info/2014/12/23/A-Totally-Amazing/
