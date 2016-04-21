@@ -35,3 +35,4 @@ myself TODO list
 * http://dataminingguide.books.yourtion.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 * http://blog.kingname.info/2014/12/23/A-Totally-Amazing/
 * http://www.cnblogs.com/atyuwen/archive/2012/11/25/piano8k.html
+* http://zhuanlan.zhihu.com/p/20593024
