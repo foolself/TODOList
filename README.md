@@ -36,3 +36,5 @@ myself TODO list
 * http://blog.kingname.info/2014/12/23/A-Totally-Amazing/
 * http://www.cnblogs.com/atyuwen/archive/2012/11/25/piano8k.html
 * http://zhuanlan.zhihu.com/p/20593024
+* http://pan.baidu.com/s/1pJxJi2Z
+* http://www.ituring.com.cn/book/1709
