@@ -41,3 +41,11 @@ myself TODO list
 * https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563584&idx=1&sn=69b6b5365cbdfbe755ae400394b30c55&scene=0&key=b28b03434249256b004f8438ce9a95a57a82004dab503fa875aabe24c644cc9926bb25b2d531ac0975186a869c17f8de&ascene=7&uin=MTAwNTIyMTMyMg%3D%3D&devicetype=android-23&version=26031031&nettype=WIFI&pass_ticket=KqCKziEiPpSoCiP9%2BUrTraWi0cdAj00z68UR1V5ifLr73X2j5iQ6ibl52%2FYc8k5X
 google
 * https://linux.cn/article-7333-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+* !!!http://security.360.cn/blog/show/2843
+* http://drops.wooyun.org/papers/2893
+* http://rui0.cn/archives/30
+* http://appscan.360.cn/blog/?p=64
+* http://security.360.cn/blog/show/2843
+* https://www.sobug.com/article/detail/16
+* 
