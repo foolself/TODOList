@@ -42,10 +42,4 @@ myself TODO list
 google
 * https://linux.cn/article-7333-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
-* !!!http://security.360.cn/blog/show/2843
-* http://drops.wooyun.org/papers/2893
-* http://rui0.cn/archives/30
-* http://appscan.360.cn/blog/?p=64
-* http://security.360.cn/blog/show/2843
-* https://www.sobug.com/article/detail/16
-* 
+* http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563685&idx=2&sn=f563f8913630a4334219ed4a9fa99653&scene=0#wechat_redirect
