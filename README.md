@@ -43,3 +43,5 @@ google
 * https://linux.cn/article-7333-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 * http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563685&idx=2&sn=f563f8913630a4334219ed4a9fa99653&scene=0#wechat_redirect
+* http://www.cnblogs.com/kaituorensheng/p/4445418.html
+* http://python.jobbole.com/85177/
