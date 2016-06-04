@@ -47,3 +47,5 @@ google
 * http://python.jobbole.com/85177/
 
 * 分享了#冯提莫#的节目《Pam Pam - 冯提莫》: http://music.163.com/program/788132063/109284159/?userid=17646011 (来自@网易云音乐)
+
+* python   http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563712&idx=1&sn=b458328fea38dd069d3c32fb37b39c59&scene=0#wechat_redirect
