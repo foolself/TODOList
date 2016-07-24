@@ -48,3 +48,5 @@ google
 * python   http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563712&idx=1&sn=b458328fea38dd069d3c32fb37b39c59&scene=0#wechat_redirect
 
 * http://weibo.com/p/230418eafe825a0102vwjz?wvr=6&mod=wenzhangmod&sudaref=www.sogou.com&retcode=6102
+
+* http://mp.weixin.qq.com/s?__biz=MjM5MDY3OTY5Mw==&mid=2649614051&idx=1&sn=bd037322613afec9269e079822f49861&scene=0#wechat_redirect
